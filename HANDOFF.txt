@@ -1,0 +1,20 @@
+HIRE MY CAR WEBSITE - HANDOFF
+
+Files:
+- index.html: homepage
+- cars.html: fleet and daily rates
+- siliguri.html, bagdogra.html, njp.html, darjeeling.html, sikkim.html, gangtok.html: SEO landing pages
+- contact.html: contact/location/FAQ
+- style.css: responsive styling
+- assets/: uploaded vehicle photos
+
+Business details used:
+Address: Gandhi Nagar, Ward No. 43, Sevoke Road, Siliguri, West Bengal 734001
+Phone/WhatsApp: 9046647228
+
+Important:
+1. The domain name is not yet known, so no domain-specific sitemap/canonical URLs were hard-coded.
+2. Confirm the current rental terms, security deposit, kilometre allowance, delivery charges and destination rules before publishing.
+3. The site uses the supplied fleet/rate list; rates should be rechecked before going live.
+4. Replace/add real photos for vehicles where the site says "Photo coming soon".
+5. Connect the site to Google Search Console after the domain is live and submit the sitemap once a domain is chosen.
